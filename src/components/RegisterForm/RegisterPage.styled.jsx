@@ -45,6 +45,7 @@ export const Button = styled.button`
   padding: 1.063em 1.5em;
 
   background-color: #000000;
+  color: #ffffff;
 
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid rgba(250, 187, 24, 0.1);
